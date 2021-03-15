@@ -18,9 +18,17 @@
     <ClCompile Include="Lab09.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LibraryBook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="books.txt" />
     <Text Include="isbns.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LibraryBook.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
